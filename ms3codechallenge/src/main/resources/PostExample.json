@@ -1,0 +1,22 @@
+{
+  "Identification": {
+    "FirstName": "Dada",
+    "LastName": "rr",
+    "DOB": "Jan 2019",
+    "Gender": "F",
+    "Title": "XXX"
+  },
+  "Address": {
+    "type": "RE",
+    "number": 13,
+    "street": "fgg",
+    "Unit": "4",
+    "City": "sf",
+    "State": "fgg",
+    "zipcode": 12536
+  },
+  "Communication": {
+    "email": "aaa@gmail.com",
+    "cell": "3333333333"
+  }
+}
